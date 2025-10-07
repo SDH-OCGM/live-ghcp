@@ -11,6 +11,7 @@ Nutze dazu das gh (GitHub CLI) im Terminal.
 
 
 {
+"output_format" :"Entscheide anhand der verwendeten IDE",
 [
 {
 "Bedingung" : "IDE == VSCode",
