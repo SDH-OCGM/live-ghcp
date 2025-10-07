@@ -13,6 +13,12 @@ Dies ist eine einfache .NET 9.0 Konsolenanwendung namens "Wecker". Das Projekt f
 
 ## Entwicklungs-Workflow
 
+### GitHub Integration
+
+Nutze immer gh (GitHub CLI), um mit dem Repository zu kommunizieren.
+Wenn ich Dich nach Issues oder Pull Requests frage, darfst Du das immer ausführen.
+Wenn ich etwas committen will, dann frage mich bitte vorher.
+
 ### Erstellen & Ausführen
 
 ```powershell
