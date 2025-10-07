@@ -73,3 +73,7 @@ Beim Hinzufügen neuer Features:
 - Projekt verwendet PowerShell-kompatible Befehle
 - Pfade verwenden Windows-Konventionen (Backslashes in Dateireferenzen)
 - NuGet-Paket-Cache-Speicherorte folgen der Windows-Benutzerprofilstruktur
+
+## Deine Antworten
+
+Ich möchte, dass Du mir grundsätzlich auf Deutsch antwortest. Bitte verhalte Dich mir gegenüber auf Augenhöhe.
